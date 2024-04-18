@@ -1,0 +1,30 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: row;
+    /* min-height: 100vh; */
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-evenly;
+
+    flex:1;
+    
+    overflow: auto;
+}
+
+.flex1 {
+    display: flex;
+    flex:1;
+}
+
+.header, .footer {
+    flex: none; /* Do not grow or shrink */
+}
+
