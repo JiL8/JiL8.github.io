@@ -1,2 +1,2 @@
 # JiL8.github.io
-public hosted github website
+checkout https://jil8.github.io/ to see this site
